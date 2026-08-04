@@ -10,7 +10,7 @@ This repo serves as my organized workspace for all course requirements, includin
 ## 👤 Student Information
 - Name: Your Full Name
 - Course/Section: BSIT 3
-- Instructor: Your Instructor
+- Instructor: Jenkielyn Torres
 - School Year: 2026-2027
 
 ## 📂 Repository Structure
