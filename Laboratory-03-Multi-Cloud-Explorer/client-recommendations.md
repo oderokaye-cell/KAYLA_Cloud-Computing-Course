@@ -1,4 +1,4 @@
-#CloudNova Technologies – Client Recommendations
+CloudNova Technologies – Client Recommendations
 
 ## Client A – Startup Company
 
