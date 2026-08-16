@@ -8,8 +8,8 @@ This repo serves as my organized workspace for all course requirements, includin
 - Reflection papers
 
 ## 👤 Student Information
-- Name: Your Full Name
-- Course/Section: BSIT 3
+- Name: Kayla Jane A. Odero
+- Course/Section: BSIT 4
 - Instructor: Jenkielyn Torres
 - School Year: 2026-2027
 
