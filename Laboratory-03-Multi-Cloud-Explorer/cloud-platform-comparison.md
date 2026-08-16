@@ -1,3 +1,5 @@
+Oo, ito na ang **kumpletong content** na ilalagay mo sa `cloud-platform-comparison.md`. Kasama na rin ang Checkpoint 5 table para hindi mo na kailangang gumawa ulit sa parehong file.
+
 # Cloud Platform Comparison
 
 ## Major Cloud Platforms
@@ -42,10 +44,3 @@ I would personally choose AWS because it provides a wide range of cloud services
 | SQL Database        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
 | Kubernetes          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
 
-| Service Category | AWS | Azure | GCP |
-|---|---|---|---|
-| Virtual Machine | | | |
-| Object Storage | | | |
-| Identity Management | | | |
-| SQL Database | | | |
-| Kubernetes | | | |
