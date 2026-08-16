@@ -73,3 +73,14 @@ AWS is recommended because the company needs highly available infrastructure tha
 | Client C – AI Research Company       | Google Cloud Platform | Strong AI, ML, and high-performance computing capabilities      |
 | Client D – Global E-Commerce Company | AWS                   | Global infrastructure, high availability, and automatic scaling |
 
+
+# Checkpoint 6 – Multi-Cloud Decision Matrix
+
+| Business Requirement | Recommended Platform | Justification |
+|---|---|---|
+| Startup Company | AWS | AWS provides a wide range of services, flexible scaling, and options suitable for startups with limited resources. |
+| Enterprise Organization | AWS | AWS offers extensive services, strong security, global infrastructure, and scalability for large organizations. |
+| Microsoft Environment | Microsoft Azure | Azure provides strong integration with Windows Server, Microsoft 365, Active Directory, and other Microsoft technologies. |
+| AI / Machine Learning | Google Cloud Platform (GCP) | GCP provides strong AI and Machine Learning tools, including Vertex AI, along with powerful computing resources. |
+| Kubernetes Deployment | Google Cloud Platform (GCP) | GCP provides Google Kubernetes Engine (GKE), a managed Kubernetes service designed for containerized applications. |
+| Global Web Application | AWS | AWS provides global infrastructure, automatic scaling, load balancing, and content delivery services for applications serving users worldwide. |
