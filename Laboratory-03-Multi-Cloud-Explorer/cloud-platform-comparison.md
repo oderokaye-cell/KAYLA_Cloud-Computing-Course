@@ -1,5 +1,3 @@
-Oo, ito na ang **kumpletong content** na ilalagay mo sa `cloud-platform-comparison.md`. Kasama na rin ang Checkpoint 5 table para hindi mo na kailangang gumawa ulit sa parehong file.
-
 # Cloud Platform Comparison
 
 ## Major Cloud Platforms
